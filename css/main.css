@@ -325,3 +325,107 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.form-container {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  background-color: #fff;
+  padding-bottom: 100px;
+}
+
+.form {
+  position: relative;
+  width: 100%;
+  display: flex;
+  column-gap: 70px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.form-header {
+  width: 35%;
+  color: #262626;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
+  text-align: center;
+}
+
+.form-group {
+  position: relative;
+  width: 60%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-direction: column;
+  row-gap: 25px;
+}
+
+.form-control {
+  position: relative;
+  width: 100%;
+}
+
+.form-control input {
+  width: 100%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid grey;
+  padding: 5px;
+}
+
+textarea {
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: #fbf8f7;
+  padding: 5px;
+}
+
+.form-button {
+  position: relative;
+  width: 131px;
+  height: 48px;
+  background-color: #ff6b00;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  color: #ff6b00;
+  border: 1px solid #ff6b00;
+  background-color: #fff5e1;
+}
+
+@media screen and (max-width: 900px) {
+  .form-container {
+    width: 90%;
+  }
+
+  .form {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+  .form-header {
+    width: 80%;
+    color: #172b4d;
+  }
+
+  .form-group {
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+  }
+}

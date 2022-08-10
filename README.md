@@ -17,11 +17,12 @@ This repo host an initial code for the tasks performed during the Code Reviewers
 
 ## Author
 👤 Akinlade Temitope
-GitHub: [@mcket05](https://www.github.com/mckent05)
 
-Twitter: [@mcket05](https://www.twitter.com/mckent05)
+- GitHub: [@mcket05](https://www.github.com/mckent05)
 
-LinkedIn: [Akinlade Temitope](https://www.linkedin.com/in/akinladetemitope)
+- Twitter: [@mcket05](https://www.twitter.com/mckent05)
+
+- LinkedIn: [Akinlade Temitope](https://www.linkedin.com/in/akinladetemitope)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!

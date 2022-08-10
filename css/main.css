@@ -351,6 +351,7 @@ li {
   font-weight: 700;
   line-height: 44px;
   text-align: center;
+  order: 2;
 }
 
 .form-group {
@@ -359,9 +360,10 @@ li {
   margin-top: 50px;
   display: flex;
   justify-content: space-around;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
   row-gap: 25px;
+  order: 1;
 }
 
 .form-control {

@@ -1,75 +1,37 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Contact-form
+This repo host an initial code for the tasks performed during the Code Reviewers training.
 
-# Project Name
+- Application is based on this [Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=1%3A1471) design.
 
-> One paragraph statement about the project.
+# Built With
+- HTML & CSS
+- Javascript
+- GitHub & Visual Studio Code
+- Prerequisites
+- Linters
+- HTML & CSS
+- Git & GitHub & GitHub Flow
+- Document your repository in a professional way
+- Deployment
+- Portfolio
 
-![screenshot](./app_screenshot.png)
+## Author
+👤 Akinlade Temitope
 
-Additional description about the project and its features.
+- GitHub: [@mcket05](https://www.github.com/mckent05)
 
-## Built With
+- Twitter: [@mcket05](https://www.twitter.com/mckent05)
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Akinlade Temitope](https://www.linkedin.com/in/akinladetemitope)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Microverse
 
 ## 📝 License
 
